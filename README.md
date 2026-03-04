@@ -1,4 +1,4 @@
-# CS-499 COmputer Science Capstone
+# CS-499 Computer Science Capstone
 
 ## Carlos Bracho
 
