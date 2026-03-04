@@ -1,2 +1,9 @@
-# BrachoDev.github.io
-This repository contains my work for my SNHU class CS-499 Computer Science Capstone TEST
+# CS-499 COmputer Science Capstone
+
+## Carlos Bracho
+
+Welcome to my ePortfolio! Here you’ll find a collection of projects that showcase my knowledge and skills in computer science.
+
+## How to Access
+
+Simply [click this link](https://brachodev.github.io/)
