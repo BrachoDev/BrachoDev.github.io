@@ -7,3 +7,7 @@ Welcome to my ePortfolio! Here you’ll find a collection of projects that showc
 ## How to Access
 
 Simply [click this link](https://brachodev.github.io/)
+
+## Inventory App:
+
+You can access my capstone project [Here](https://github.com/BrachoDev/inventoryApp)
