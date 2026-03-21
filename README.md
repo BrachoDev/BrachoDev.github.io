@@ -48,6 +48,6 @@ Some of the key improvements include:
 
 This milestone focuses on applying software engineering principles such as modular design, scalability, and maintainability.
 
-📄 [Read My Full Narrative](some_link)
+📄 [Read My Full Narrative](https://github.com/BrachoDev/BrachoDev.github.io/blob/main/3-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering%20-%20Carlos%20Bracho.pdf)
 
 ---
