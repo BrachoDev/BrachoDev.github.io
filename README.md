@@ -49,3 +49,31 @@ This milestone focuses on applying software engineering principles such as modul
 📄 [Read My Full Narrative](https://github.com/BrachoDev/BrachoDev.github.io/blob/main/3-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering%20-%20Carlos%20Bracho.pdf)
 
 ---
+
+## 🧩 Milestone Three: Algorithms and data structures Enhancement
+
+For this milestone, I focused on improving the backend of my inventory application with more robust data handling, validations, and modular architecture. I also started setting up the frontend environment to prepare for full-stack development.
+
+Some of the key improvements include:
+
+- **Refactoring routes and controllers:** I created a `routes` method that includes all CRUD operations for the product collection. To make the code even more modular, I added a `controllers` folder to hold the logic for these operations, which keeps the route files clean and easy to maintain.
+
+- **User management with validation and security:** I created a `user.model.js` schema to store user data for future login functionality. I also added password hashing using `bcryptjs` to secure sensitive data. The `registerUser` method now includes multiple validations:
+  - Ensures all required fields are present
+  - Validates email format
+  - Checks password strength (at least 8 characters, includes uppercase, lowercase, and a number)
+  - Checks username length (6 characters minimum) and allowed characters
+  - Verifies user uniqueness
+  - Validates optional phone numbers
+
+Additional CRUD operations were added for users, including retrieving all users, updating, and deleting accounts.
+
+- **Environment configuration and database management:** I moved sensitive server settings like `PORT` to a `.env` file for security. I also renamed the MongoDB database from `products` to `inventory_app_db` to reflect the inclusion of the users collection, updating the connection string accordingly.
+
+- **Improved code readability and maintainability:** I went back to add detailed comments throughout the backend, including the `server.js`, routes, models, controllers, and database connection files.
+
+- **Frontend setup and testing:** I started the frontend with Vite and installed Chakra UI for UI components. I confirmed the setup works by creating a simple test button that says “Hello.”
+
+This milestone demonstrates the application of data structures and algorithmic logic in a real-world project, particularly in handling user input, validating data, and managing collections. It also highlights modular design, maintainability, and security considerations.
+
+📄 [Read My Full Narrative]()
