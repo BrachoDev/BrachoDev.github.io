@@ -76,4 +76,4 @@ Additional CRUD operations were added for users, including retrieving all users,
 
 This milestone demonstrates the application of data structures and algorithmic logic in a real-world project, particularly in handling user input, validating data, and managing collections. It also highlights modular design, maintainability, and security considerations.
 
-📄 [Read My Full Narrative]()
+📄 [Read My Full Narrative](https://github.com/BrachoDev/BrachoDev.github.io/blob/main/4-2%20Milestone%20Three%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure%20-%20Carlos%20Bracho.pdf)
