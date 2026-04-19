@@ -46,12 +46,12 @@ You can access the deployed inventory application using the link below:
 
 To explore the application, you may use the following demo credentials:
 
-- `Username:` **user_snhu**  
-- `Password:` **SNhu1234** 
+- `Username:` **user_snhu**
+- `Password:` **SNhu1234**
 
 ### 💻 Source Code
 
-You can view the full source code for this project on *GitHub*:
+You can view the full source code for this project on _GitHub_:
 
 👉 https://github.com/BrachoDev/inventoryApp
 
@@ -109,15 +109,15 @@ For this enhancement, I focused on improving database design, data integrity, an
 
 Key improvements include:
 
-- Designing and implementing **MongoDB** collections for *products* and *users*
+- Designing and implementing **MongoDB** collections for _products_ and _users_
 - Creating Mongoose schemas with validation and constraints
 - Improving database queries for efficient data retrieval
-- Securing sensitive data such as **passwords** using *hashing*
+- Securing sensitive data such as **passwords** using _hashing_
 - Managing environment variables for secure database connections
 
 These enhancements improved the reliability, security, and performance of the application’s data layer. This demonstrates my understanding of database management, NoSQL design, and backend integration.
 
-📄 Full Narrative: (Add link)
+📄 Full Narrative: [Milestone 4](https://github.com/BrachoDev/BrachoDev.github.io/blob/main/5-2%20Milestone%20Four%20Enhancement%20Three%20Databases%20-%20Carlos%20Bracho.pdf)
 
 ---
 
