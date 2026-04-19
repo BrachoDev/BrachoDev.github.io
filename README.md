@@ -10,8 +10,6 @@ Welcome to my professional ePortfolio. This portfolio showcases my growth as a c
   <img src="Carlos.jpg" width="200" height="260" alt="Carlos Bracho">
 </p>
 
-<!-- ![Carlos Bracho](Carlos.jpg) -->
-
 Throughout the Computer Science program, I have developed strong technical and problem-solving skills that have prepared me to enter the tech field. By working on a variety of projects, including my capstone inventory application, I have gained experience in full-stack development, database design, and implementing efficient and secure solutions.
 
 One of my key strengths is my ability to problem solve and to design and build scalable applications using modern technologies such as MongoDB, Express, React, Node.js, and many more. I have also developed a strong understanding of data structures and algorithms by applying logic to optimize search, sorting, and validation processes within my applications. Additionally, I have learned the importance of secure coding practices, such as hashing passwords, validating user input, and managing authentication using JSON Web Tokens.
@@ -22,7 +20,21 @@ This ePortfolio highlights my ability to design, develop, and enhance a full-sta
 
 ---
 
-## 🔄 Original Artifact and Enhancement Overview
+## Content:
+
+- [Artifact to Enhance: Original Artifact and Enhancement Overview](#-artifact-to-enhance-original-artifact-and-enhancement-overview)
+- [Enhanced Artifact: Inventory Application](#-enhanced-artifact-inventory-application)
+  - [Live Application](#-live-application)
+  - [Source Code](#-source-code)
+- [Milestone One: Code Review](#-milestone-one-code-review)
+- [Milestone Two: Software Design and Engineering](#️-milestone-two-software-design-and-engineering)
+- [Milestone Three: Algorithms and Data Structures](#-milestone-three-algorithms-and-data-structures)
+- [Milestone Four: Databases](#️-milestone-four-databases)
+- [ePortfolio Access](#-eportfolio-access)
+
+---
+
+## 🔄 Artifact to Enhance: Original Artifact and Enhancement Overview
 
 The original version of this project was developed in **CS 360: Mobile Architecture and Programming** as an Android inventory app built with Kotlin. It allowed users to log in and manage inventory items locally on their device.
 
@@ -30,9 +42,11 @@ However, the app had several limitations. Data was stored using SQLite on the de
 
 To address these issues, I enhanced the application by converting it into a full-stack web application using the MERN stack. I replaced the local database with MongoDB, enabling persistent storage and multi-device access. These improvements increased the scalability, accessibility, and efficiency of the application while demonstrating growth in software engineering, algorithms, and database design.
 
-- You can view the source code of the old version of this program here: https://github.com/BrachoDev/CS-360-Mobile-InventoryApp
+- You can view the source code of the old version of this program here: [CS-360-Mobile-InventoryApp](https://github.com/BrachoDev/CS-360-Mobile-InventoryApp)
 
-## 📂 Artifact: Inventory Application
+---
+
+## 📂 Enhanced Artifact: Inventory Application
 
 This project is a full-stack inventory management application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to create, view, update, and delete inventory items. The app also manages user authentication.
 
@@ -42,7 +56,7 @@ This artifact was selected because it demonstrates a wide range of skills, inclu
 
 You can access the deployed inventory application using the link below:
 
-👉 https://inventoryapp-ob0s.onrender.com/login
+👉 [Inventory App](https://inventoryapp-ob0s.onrender.com/login)
 
 To explore the application, you may use the following demo credentials:
 
@@ -53,7 +67,7 @@ To explore the application, you may use the following demo credentials:
 
 You can view the full source code for this project on _GitHub_:
 
-👉 https://github.com/BrachoDev/inventoryApp
+👉 [Inventory App - GitHub Repository](https://github.com/BrachoDev/inventoryApp)
 
 ---
 
@@ -67,7 +81,7 @@ For this milestone, I created a video walkthrough of my old version of the app, 
 
 ---
 
-## ⚙️ Enhancement One: Software Design and Engineering
+## ⚙️ Milestone Two: Software Design and Engineering
 
 For this enhancement, I focused on improving the overall structure, scalability, and maintainability of the application.
 
@@ -85,7 +99,7 @@ These changes improved the organization of the codebase, making it easier to mai
 
 ---
 
-## 🧩 Enhancement Two: Algorithms and Data Structures
+## 🧩 Milestone Three: Algorithms and Data Structures
 
 In this enhancement, I focused on improving how data is processed, validated, and managed within the application.
 
@@ -103,7 +117,7 @@ These improvements enhanced the efficiency and reliability of the application by
 
 ---
 
-## 🗄️ Enhancement Three: Databases
+## 🗄️ Milestone Four: Databases
 
 For this enhancement, I focused on improving database design, data integrity, and interaction between the backend and **MongoDB**.
 
