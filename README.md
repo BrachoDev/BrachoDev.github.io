@@ -1,79 +1,126 @@
-# CS-499 Computer Science Capstone
+# CS-499 Computer Science Capstone ePortfolio
 
-Welcome to my ePortfolio! Here you’ll find a collection of projects that showcase my knowledge and skills in computer science.
-
----
-
-## How to Access
-
-Simply [click this link](https://brachodev.github.io/)
+Welcome to my professional ePortfolio. This portfolio showcases my growth as a computer science student through the development and enhancement of a full-stack inventory application. The project demonstrates my abilities in software design and engineering, algorithms and data structures, and database integration.
 
 ---
 
-## Inventory App:
+## 👨‍💼 Professional Self-Assessment
 
-You can access my capstone project [here](https://github.com/BrachoDev/inventoryApp)
+<p align="center">
+  <img src="Carlos.jpg" width="200" height="260" alt="Carlos Bracho">
+</p>
 
-This project is a full-stack inventory management application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to create, view, update, and delete inventory items while demonstrating backend development, database integration, and API design.
+<!-- ![Carlos Bracho](Carlos.jpg) -->
+
+Throughout the Computer Science program, I have developed strong technical and problem-solving skills that have prepared me to enter the tech field. By working on a variety of projects, including my capstone inventory application, I have gained experience in full-stack development, database design, and implementing efficient and secure solutions.
+
+One of my key strengths is my ability to problem solve and to design and build scalable applications using modern technologies such as MongoDB, Express, React, Node.js, and many more. I have also developed a strong understanding of data structures and algorithms by applying logic to optimize search, sorting, and validation processes within my applications. Additionally, I have learned the importance of secure coding practices, such as hashing passwords, validating user input, and managing authentication using JSON Web Tokens.
+
+Throughout my coursework, I have also improved my ability to communicate technical concepts clearly, both in writing and through presentations such as my [code review video](#-milestone-one-code-review). While most of my work was completed individually, I approached each project with a professional mindset, considering how it would function in a real-world team environment and how it could be maintained and expanded over time.
+
+This ePortfolio highlights my ability to design, develop, and enhance a full-stack application while demonstrating important computer science concepts. The inventory application serves as the central artifact, with enhancements in software engineering, algorithms and data structures, and database management that reflect my growth throughout the program.
+
+---
+
+## 🔄 Original Artifact and Enhancement Overview
+
+The original version of this project was developed in **CS 360: Mobile Architecture and Programming** as an Android inventory app built with Kotlin. It allowed users to log in and manage inventory items locally on their device.
+
+However, the app had several limitations. Data was stored using SQLite on the device, which meant it could not be accessed from other devices and did not support multiple users. Additionally, inventory items were stored in an ArrayList, requiring full list scans when searching, which becomes inefficient as data grows.
+
+To address these issues, I enhanced the application by converting it into a full-stack web application using the MERN stack. I replaced the local database with MongoDB, enabling persistent storage and multi-device access. These improvements increased the scalability, accessibility, and efficiency of the application while demonstrating growth in software engineering, algorithms, and database design.
+
+- You can view the source code of the old version of this program here: https://github.com/BrachoDev/CS-360-Mobile-InventoryApp
+
+## 📂 Artifact: Inventory Application
+
+This project is a full-stack inventory management application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to create, view, update, and delete inventory items. The app also manages user authentication.
+
+This artifact was selected because it demonstrates a wide range of skills, including frontend development, backend API design, database integration, and authentication. It also provided a strong foundation for implementing enhancements across all three required categories.
+
+### 🌐 Live Application
+
+You can access the deployed inventory application using the link below:
+
+👉 https://inventoryapp-ob0s.onrender.com/login
+
+To explore the application, you may use the following demo credentials:
+
+- `Username:` **user_snhu**  
+- `Password:` **SNhu1234** 
+
+### 💻 Source Code
+
+You can view the full source code for this project on *GitHub*:
+
+👉 https://github.com/BrachoDev/inventoryApp
 
 ---
 
 ## 🎥 Milestone One: Code Review
 
-A code review is the process of examining code to identify issues, improve quality, and ensure best practices are being followed. It helps developers catch bugs, improve readability, and think more critically about their design decisions.
+A code review is the process of analyzing code to identify areas for improvement in structure, performance, and maintainability.
 
-For this milestone, I created a video where I reviewed my own code, analyzed its structure, and identified areas for improvement before beginning enhancements.
+For this milestone, I created a video walkthrough of my old version of the app, explaining its functionality and identifying areas for enhancement. I evaluated the structure of my backend, the organization of my code, and opportunities to improve security and efficiency.
 
-🎥 Watch my code review video by [clicking here](https://youtu.be/dT1IyXKP-HE).
+🎥 Watch my code review video: [Milestone 1](https://youtu.be/dT1IyXKP-HE)
 
 ---
 
-## ⚙️ Milestone Two: Software Design & Engineering Enhancement
+## ⚙️ Enhancement One: Software Design and Engineering
 
-For this milestone, I enhanced my inventory application by improving the backend and implementing full CRUD functionality using a RESTful API.
+For this enhancement, I focused on improving the overall structure, scalability, and maintainability of the application.
 
-Some of the key improvements include:
+Key improvements include:
 
-- Setting up a Node.js and Express server
-- Connecting to a MongoDB Atlas database
-- Creating a schema using Mongoose
-- Implementing API routes for:
-  - Creating products (POST)
-  - Retrieving products (GET)
-  - Updating products (PUT)
-  - Deleting products (DELETE)
+- Refactoring the backend into a modular architecture using routes and controllers
+- Implementing a **RESTful API** for full **CRUD** functionality
+- Improving code readability through consistent structure and comments
 - Using environment variables for secure configuration
+- Enhancing frontend structure using React components and routing
 
-This milestone focuses on applying software engineering principles such as modular design, scalability, and maintainability.
+These changes improved the organization of the codebase, making it easier to maintain and scale. This enhancement demonstrates my understanding of software engineering principles such as modular design, separation of concerns, and clean architecture.
 
-📄 [Read My Full Narrative](https://github.com/BrachoDev/BrachoDev.github.io/blob/main/3-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering%20-%20Carlos%20Bracho.pdf)
+📄 Full Narrative: [Milestone 2](https://github.com/BrachoDev/BrachoDev.github.io/blob/main/3-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering%20-%20Carlos%20Bracho.pdf)
 
 ---
 
-## 🧩 Milestone Three: Algorithms and data structures Enhancement
+## 🧩 Enhancement Two: Algorithms and Data Structures
 
-For this milestone, I focused on improving the backend of my inventory application with more robust data handling, validations, and modular architecture. I also started setting up the frontend environment to prepare for full-stack development.
+In this enhancement, I focused on improving how data is processed, validated, and managed within the application.
 
-Some of the key improvements include:
+Key improvements include:
 
-- **Refactoring routes and controllers:** I created a `routes` method that includes all CRUD operations for the product collection. To make the code even more modular, I added a `controllers` folder to hold the logic for these operations, which keeps the route files clean and easy to maintain.
+- Implementing input validation logic for users and products
+- Enforcing constraints such as unique product names and bin locations
+- Improving search and sorting functionality for better data retrieval
+- Managing application state efficiently using **Zustand**
+- Applying structured logic for authentication and user management
 
-- **User management with validation and security:** I created a `user.model.js` schema to store user data for future login functionality. I also added password hashing using `bcryptjs` to secure sensitive data. The `registerUser` method now includes multiple validations:
-  - Ensures all required fields are present
-  - Validates email format
-  - Checks password strength (at least 8 characters, includes uppercase, lowercase, and a number)
-  - Checks username length (6 characters minimum) and allowed characters
-  - Verifies user uniqueness
-  - Validates optional phone numbers
+These improvements enhanced the efficiency and reliability of the application by ensuring data integrity and optimizing how information is handled. This demonstrates my ability to apply algorithmic thinking and data structures in a real-world application.
 
-Additional CRUD operations were added for users, including retrieving all users, updating, and deleting accounts.
+📄 Full Narrative: [Milestone 3](https://github.com/BrachoDev/BrachoDev.github.io/blob/main/4-2%20Milestone%20Three%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure%20-%20Carlos%20Bracho.pdf)
 
-- **Environment configuration and database management:** I moved sensitive server settings like `PORT` to a `.env` file for security. I also renamed the MongoDB database from `products` to `inventory_app_db` to reflect the inclusion of the users collection, updating the connection string accordingly.
+---
 
-- **Improved code readability and maintainability:** I went back to add detailed comments throughout the backend, including the `server.js`, routes, models, controllers, and database connection files.
+## 🗄️ Enhancement Three: Databases
 
-- **Frontend setup and testing:** I started the frontend with Vite and installed Chakra UI for UI components. I confirmed the setup works by creating a simple test button that says “Hello.”
+For this enhancement, I focused on improving database design, data integrity, and interaction between the backend and **MongoDB**.
 
-This milestone demonstrates the application of data structures and algorithmic logic in a real-world project, particularly in handling user input, validating data, and managing collections. It also highlights modular design, maintainability, and security considerations.
+Key improvements include:
 
-📄 [Read My Full Narrative](https://github.com/BrachoDev/BrachoDev.github.io/blob/main/4-2%20Milestone%20Three%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure%20-%20Carlos%20Bracho.pdf)
+- Designing and implementing **MongoDB** collections for *products* and *users*
+- Creating Mongoose schemas with validation and constraints
+- Improving database queries for efficient data retrieval
+- Securing sensitive data such as **passwords** using *hashing*
+- Managing environment variables for secure database connections
+
+These enhancements improved the reliability, security, and performance of the application’s data layer. This demonstrates my understanding of database management, NoSQL design, and backend integration.
+
+📄 Full Narrative: (Add link)
+
+---
+
+## 🔗 ePortfolio Access
+
+👉 https://brachodev.github.io/
